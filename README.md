@@ -70,27 +70,46 @@ Neural Data Analysis & Machine Learning · Biomedical Signals & Image Processing
 
 **Datasets:** Macaque dlPFC spike trains & LFPs · Human Connectome Project (HCP) · ADNI · PhysioNet · IEEE open EEG-ADHD data
 
+### 📜 Certificates
+
+<details>
+  <summary><b>Click to view verified certificates & credentials</b></summary>
+
+  - **Neuromatch Academy — Computational Neuroscience (2024)**[span_4](start_span)[span_4](end_span)  
+    *128-hour interactive track and course project.*[span_5](start_span)[span_5](end_span)  
+    [Verify Certificate Link](https://portal.neuromatchacademy.org/certificate/dbfee994-eb23-427f-8bc1-f47d1957d2b1)[span_6](start_span)[span_6](end_span)  
+    <br>
+    <img src="assets/neuromatch-cert.png" width="600" alt="Neuromatch Academy Certificate">
+
+  - **DeepLearning.AI & Stanford Online — Machine Learning Specialization (2023)**[span_7](start_span)[span_7](end_span)  
+    *Supervised Machine Learning, Advanced Learning Algorithms, and Unsupervised Learning/Reinforcement Learning.*[span_8](start_span)[span_8](end_span)  
+    [Verify Certificate Link](https://coursera.org/verify/specialization/2X6SNPNQ235J)[span_9](start_span)[span_9](end_span)  
+    <br>
+    <img src="assets/coursera-cert.png" width="600" alt="Machine Learning Specialization Certificate">
+
+</details>
+
 ### 📄 Publications
 
-1. S. Khodadadi Arpanahi, M. Sarrami, **F. Moghaddam**, R. Abedi, M. Rajabi, Z. Rahimian, S. Talebi\*. *An explainable multilayer connectome framework for staging and progression in Alzheimer's disease.* **BMC Medical Informatics and Decision Making** (Springer Nature). *(Under review)*
-2. **F. Moghaddam**, P. Ghaderyan\*, M. Shamsi. *Diagnosis of Attention Deficit/Hyperactivity Disorder using the analysis of different brain regions' connectivity and the Dynamic Time Warping method.* **Tabriz Journal of Electrical Engineering.** [doi:10.22034/tjee.2023.16304](https://doi.org/10.22034/tjee.2023.16304)
-3. P. Ghaderyan\*, **F. Moghaddam**, S. Khoshnoud, M. Shamsi. *New interdependence feature of EEG signals as a biomarker of timing deficits evaluated in attention-deficit/hyperactivity disorder detection.* **Measurement, 199** (Elsevier). [doi:10.1016/j.measurement.2022.111468](https://doi.org/10.1016/j.measurement.2022.111468)
+1. S. Khodadadi Arpanahi, M. Sarrami, **F. Moghaddam**, R. Abedi, M. Rajabi, Z. Rahimian, S. Talebi\*. *An explainable multilayer connectome framework for staging and progression in Alzheimer's disease.* **BMC Medical Informatics and Decision Making** (Springer Nature). *(Under review)*[span_10](start_span)[span_10](end_span)
+2. **F. Moghaddam**, P. Ghaderyan\*, M. Shamsi. *Diagnosis of Attention Deficit/Hyperactivity Disorder using the analysis of different brain regions' connectivity and the Dynamic Time Warping method.* **Tabriz Journal of Electrical Engineering.** [doi:10.22034/tjee.2023.16304](https://doi.org/10.22034/tjee.2023.16304)[span_11](start_span)[span_11](end_span)
+3. P. Ghaderyan\*, **F. Moghaddam**, S. Khoshnoud, M. Shamsi. *New interdependence feature of EEG signals as a biomarker of timing deficits evaluated in attention-deficit/hyperactivity disorder detection.* **Measurement, 199** (Elsevier). [doi:10.1016/j.measurement.2022.111468](https://doi.org/10.1016/j.measurement.2022.111468)[span_12](start_span)[span_12](end_span)
 
 ### 🎓 Education
 
-- **M.Sc. in Biomedical Engineering** (AI & Computational Neuroscience), Sahand University of Technology — 2018–2021
-- **B.Sc. in Bioelectric Engineering**, Sahand University of Technology — 2014–2018
+- **M.Sc. in Biomedical Engineering** (AI & Computational Neuroscience), Sahand University of Technology — 2018–2021[span_13](start_span)[span_13](end_span)
+- **B.Sc. in Bioelectric Engineering**, Sahand University of Technology — 2014–2018[span_14](start_span)[span_14](end_span)
 
 ### 📚 Selected Training
 
-- Neuroscience Datasets & Hands-on HCP Workshop — Applied Neuroscience Academy & Iran University of Medical Sciences (2026)
-- Advanced Analysis of EEG and ERP Signals — National Brain Mapping Lab (2026)
-- Neuromatch Academy, Computational Neuroscience (2024)
-- Neuroscience Diploma based on Kandel's *Principles of Neural Science* — GABA Neuroscience Association (2024)
-- Advanced Neuroscience Data Processing with Deep Learning (Python) — National Brain Mapping Lab (2023)
+- Neuroscience Datasets & Hands-on HCP Workshop — Applied Neuroscience Academy & Iran University of Medical Sciences (2026)[span_15](start_span)[span_15](end_span)
+- Advanced Analysis of EEG and ERP Signals — National Brain Mapping Lab (2026)[span_16](start_span)[span_16](end_span)
+- Neuromatch Academy, Computational Neuroscience (2024)[span_17](start_span)[span_17](end_span)[span_18](start_span)[span_18](end_span)
+- Neuroscience Diploma based on Kandel's *Principles of Neural Science* — GABA Neuroscience Association (2024)[span_19](start_span)[span_19](end_span)
+- Advanced Neuroscience Data Processing with Deep Learning (Python) — National Brain Mapping Lab (2023)[span_20](start_span)[span_20](end_span)
 
 ### 🏆 Honors
 
-Top rank in Brain Physiology & Cognition (2020–21) and in Bioelectrical Phenomena & Biostatistics (2017–18) · Graduate Research Fellowship, Sahand University of Technology with the Cognitive Sciences and Technologies Council (2019)
+Top rank in Brain Physiology & Cognition (2020–21) and in Bioelectrical Phenomena & Biostatistics (2017–18) · Graduate Research Fellowship, Sahand University of Technology with the Cognitive Sciences and Technologies Council (2019)[span_21](start_span)[span_21](end_span)
 
-[![FarimaM](https://github-readme-streak-stats.herokuapp.com/?user=FarimaM)](https://git.io/streak-stats)
+[![FarimaM](https://github-readme-streak-stats.herokuapp.com/?user=FarimaM)](https://git.io/streak-stats)[span_22](start_span)[span_22](end_span)
