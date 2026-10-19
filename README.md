@@ -1,6 +1,6 @@
 # Farima Moghaddam
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:f_moghaddam97@sut.ac.ir)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:farima.moghaddam.research@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
 [![Github](https://img.shields.io/github/followers/FarimaM?label=Follow&style=social)](https://github.com/FarimaM)
@@ -27,7 +27,7 @@ Computational neuroscience researcher working on **neural data analysis, brain c
 
 Neural Data Analysis & Machine Learning · Biomedical Signals & Image Processing · Neuroelectrophysiology · Computational Modeling · Neuroimaging · Systems Neuroscience
 
-📫 **Reach me:** [f_moghaddam97@sut.ac.ir](mailto:f_moghaddam97@sut.ac.ir) — open to research collaborations.
+📫 **Reach me:** [farima.moghaddam.research@gmail.com](mailto:farima.moghaddam.research@gmail.com) — open to research collaborations.
 
 ### 🖥 Skills
 
