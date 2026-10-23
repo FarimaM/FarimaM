@@ -70,28 +70,8 @@ Neural Data Analysis & Machine Learning · Biomedical Signals & Image Processing
 
 **Datasets:** Macaque dlPFC spike trains & LFPs · Human Connectome Project (HCP) · ADNI · PhysioNet · IEEE open EEG-ADHD data
 
-### 📄 Publications
-
-1. S. Khodadadi Arpanahi, M. Sarrami, **F. Moghaddam**, R. Abedi, M. Rajabi, Z. Rahimian, S. Talebi\*. *An explainable multilayer connectome framework for staging and progression in Alzheimer's disease.* **BMC Medical Informatics and Decision Making** (Springer Nature). *(Under review)*
-2. **F. Moghaddam**, P. Ghaderyan\*, M. Shamsi. *Diagnosis of Attention Deficit/Hyperactivity Disorder using the analysis of different brain regions' connectivity and the Dynamic Time Warping method.* **Tabriz Journal of Electrical Engineering.** [doi:10.22034/tjee.2023.16304](https://doi.org/10.22034/tjee.2023.16304)
-3. P. Ghaderyan\*, **F. Moghaddam**, S. Khoshnoud, M. Shamsi. *New interdependence feature of EEG signals as a biomarker of timing deficits evaluated in attention-deficit/hyperactivity disorder detection.* **Measurement, 199** (Elsevier). [doi:10.1016/j.measurement.2022.111468](https://doi.org/10.1016/j.measurement.2022.111468)
-
-### 🎓 Education
-
-- **M.Sc. in Biomedical Engineering** (AI & Computational Neuroscience), Sahand University of Technology — 2018–2021
-- **B.Sc. in Bioelectric Engineering**, Sahand University of Technology — 2014–2018
-
-### 📚 Selected Training
-
-- Neuroscience Datasets & Hands-on HCP Workshop — Applied Neuroscience Academy & Iran University of Medical Sciences (2026)
-- Advanced Analysis of EEG and ERP Signals — National Brain Mapping Lab (2026)
-- Neuromatch Academy, Computational Neuroscience (2024)
-- Neuroscience Diploma based on Kandel's *Principles of Neural Science* — GABA Neuroscience Association (2024)
-- Advanced Neuroscience Data Processing with Deep Learning (Python) — National Brain Mapping Lab (2023)
-
 ### 🏆 Honors
 
 Top rank in Brain Physiology & Cognition (2020–21) and in Bioelectrical Phenomena & Biostatistics (2017–18) · Graduate Research Fellowship, Sahand University of Technology with the Cognitive Sciences and Technologies Council (2019)
 
 [![FarimaM](https://github-readme-streak-stats.herokuapp.com/?user=FarimaM)](https://git.io/streak-stats)
-
