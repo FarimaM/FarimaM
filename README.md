@@ -3,7 +3,6 @@
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:farima.moghaddam.research@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
-[![Github](https://img.shields.io/github/followers/FarimaM?label=Follow&style=social)](https://github.com/FarimaM)
 
 ## 👋 About Me
 
