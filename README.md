@@ -70,8 +70,4 @@ Neural Data Analysis & Machine Learning · Biomedical Signals & Image Processing
 
 **Datasets:** Macaque dlPFC spike trains & LFPs · Human Connectome Project (HCP) · ADNI · PhysioNet · IEEE open EEG-ADHD data
 
-### 🏆 Honors
-
-Top rank in Brain Physiology & Cognition (2020–21) and in Bioelectrical Phenomena & Biostatistics (2017–18) · Graduate Research Fellowship, Sahand University of Technology with the Cognitive Sciences and Technologies Council (2019)
-
 [![FarimaM](https://github-readme-streak-stats.herokuapp.com/?user=FarimaM)](https://git.io/streak-stats)
